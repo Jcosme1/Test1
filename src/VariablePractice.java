@@ -2,7 +2,7 @@ public class VariablePractice {
 
 
         public static void main(String[] args) {
-
+//s
             System.out.println(temp);
             System.out.println(firstName + lastName);
 
