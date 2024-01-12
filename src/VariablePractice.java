@@ -8,7 +8,7 @@ public class VariablePractice {
             System.out.println(temp);
             System.out.println(firstName + lastName);
 
-
+//
         }
 
 
