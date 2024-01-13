@@ -17,7 +17,7 @@ public class Student {
                names += a[i].name + " ";  //using i to check through each item in the array each time you iterate
             }
         }
-
+//
         return names; //returning the concatenated version of your names variable
     }
 
