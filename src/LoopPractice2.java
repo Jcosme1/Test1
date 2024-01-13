@@ -11,7 +11,7 @@ public class LoopPractice2 {
         while(num > 0){
             System.out.print("Give me a number: ");
             num = Integer.parseInt(scan.nextLine()); // this line gets what you would type then turns it into an int
-            if (num > 0 ){
+            if (num > 0 ){   // you need to check the new number you type in to see if you'll add it to the running total
              sum += num;
 
             }
